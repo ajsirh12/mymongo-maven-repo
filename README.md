@@ -3,7 +3,7 @@ mymongo-maven-repo
 ```
 <repository>
     <id>mymongo</id>
-    <url>https://github.com/ajsirh12/mymongo-maven-repo/tree/main/releases</url>
+    <url>https://github.com/ajsirh12/mymongo-maven-repo/tree/main/snapshots</url>
 </repository>
 ```
 
@@ -11,6 +11,6 @@ mymongo-maven-repo
 <dependency>
     <groupId>org.mymongo</groupId>
     <artifactId>mymongo-maven-repo</artifactId>
-    <version>1.0.1</version>
+    <version>2.1.0-SNAPSHOT</version>
 </dependency>
 ```
