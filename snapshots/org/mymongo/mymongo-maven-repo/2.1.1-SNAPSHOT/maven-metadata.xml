@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.mymongo</groupId>
+  <artifactId>mymongo-maven-repo</artifactId>
+  <version>2.1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20220120.020454</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20220120020454</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.1.1-20220120.020454-1</value>
+        <updated>20220120020454</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.1.1-20220120.020454-1</value>
+        <updated>20220120020454</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>2.1.1-20220120.020454-1</value>
+        <updated>20220120020454</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
