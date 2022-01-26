@@ -2,29 +2,29 @@
 <metadata modelVersion="1.1.0">
   <groupId>org.mymongo</groupId>
   <artifactId>mymongo-maven-repo</artifactId>
-  <version>2.1.0-SNAPSHOT</version>
+  <version>2.1.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20220120.020442</timestamp>
-      <buildNumber>5</buildNumber>
+      <timestamp>20220126.051312</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20220120020442</lastUpdated>
+    <lastUpdated>20220126051312</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.1.0-20220120.020442-5</value>
-        <updated>20220120020442</updated>
+        <value>2.1.2-20220126.051312-1</value>
+        <updated>20220126051312</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.1.0-20220120.020442-5</value>
-        <updated>20220120020442</updated>
+        <value>2.1.2-20220126.051312-1</value>
+        <updated>20220126051312</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>2.1.0-20220120.020442-5</value>
-        <updated>20220120020442</updated>
+        <value>2.1.2-20220126.051312-1</value>
+        <updated>20220126051312</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
