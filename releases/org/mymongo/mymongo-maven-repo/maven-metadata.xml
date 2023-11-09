@@ -3,10 +3,11 @@
   <groupId>org.mymongo</groupId>
   <artifactId>mymongo-maven-repo</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>2.3.1-RELEASE</release>
     <versions>
       <version>1.0.1</version>
+      <version>2.3.1-RELEASE</version>
     </versions>
-    <lastUpdated>20220111015024</lastUpdated>
+    <lastUpdated>20231109010914</lastUpdated>
   </versioning>
 </metadata>
